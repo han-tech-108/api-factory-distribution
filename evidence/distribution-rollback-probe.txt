@@ -1,0 +1,1 @@
+Distribution rollback probe A. Documentation-only; safe to ignore.
