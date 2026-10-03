@@ -1,1 +1,1 @@
-Distribution rollback probe B. Temporary change.
+Distribution rollback probe A. Documentation-only; safe to ignore.
