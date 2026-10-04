@@ -49,3 +49,7 @@ const response = await fetch(`https://${host}/v1/convert`, {
 if (!response.ok) throw new Error(`HTTP ${response.status}`);
 console.log((await response.json()).markdown);
 ```
+
+## Related APIs
+
+- [Accumulated Web Diff API](https://rapidapi.com/fhanzawa108/api/accumulated-web-diff-private-validation/pricing) — Compare an authorized public page against its accepted baseline.
