@@ -67,8 +67,6 @@ console.log(await response.json());
 
 [Plans and subscribe](https://rapidapi.com/fhanzawa108/api/json-duplicate-key-preflight-api)
 
-[Product page and use cases](https://awd-change-monitor.hanzawa108.chatgpt.site/apis/json-duplicate-key-preflight-api?src=gh)
-
 ## Pricing
 
 BASIC: $0 for 100 calls per month. PRO: $5 for 5,000 calls per month. Hard limits; request overage disabled.
