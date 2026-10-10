@@ -27,8 +27,6 @@ Original application code. Python standard-library/PSF notices and tzdata Apache
 
 [Plans and subscribe](https://rapidapi.com/fhanzawa108/api/cron-dst-audit-api)
 
-[Product page and use cases](https://awd-change-monitor.hanzawa108.chatgpt.site/apis/cron-dst-audit-api?src=gh)
-
 ## Pricing
 
 BASIC: $0 for 100 calls per month. PRO: $5 for 5,000 calls per month. Hard limits; request overage disabled.
