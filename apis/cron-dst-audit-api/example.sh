@@ -1,0 +1,1 @@
+curl "https://$RAPIDAPI_HOST/v1/audit" -H "X-RapidAPI-Key: $RAPIDAPI_KEY" -H "X-RapidAPI-Host: $RAPIDAPI_HOST" -H 'Content-Type: application/json' --data '{"expression":"30 1 * * *","timezone":"America/New_York","start_date":"2026-11-01","horizon_days":1}'
