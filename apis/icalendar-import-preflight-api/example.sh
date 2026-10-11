@@ -1,0 +1,1 @@
+curl "https://$RAPIDAPI_HOST/v1/preflight" -H "X-RapidAPI-Key: $RAPIDAPI_KEY" -H "X-RapidAPI-Host: $RAPIDAPI_HOST" -H "Content-Type: application/json" --data '{"ics":"BEGIN:VCALENDAR\r\nVERSION:2.0\r\nPRODID:-//Example//EN\r\nBEGIN:VEVENT\r\nUID:example\r\nDTSTAMP:20261011T000000Z\r\nDTSTART;VALUE=DATE:20261011\r\nDTEND;VALUE=DATE:20261012\r\nEND:VEVENT\r\nEND:VCALENDAR\r\n"}'
