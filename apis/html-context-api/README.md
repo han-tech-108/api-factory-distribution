@@ -53,3 +53,7 @@ console.log((await response.json()).markdown);
 ## Related APIs
 
 - [Accumulated Web Diff API](https://rapidapi.com/fhanzawa108/api/accumulated-web-diff-private-validation/pricing) — Compare an authorized public page against its accepted baseline.
+
+[Product page](https://awd-change-monitor.hanzawa108.chatgpt.site/apis/html-context-api?src=gh)
+
+[Try free tool](https://awd-change-monitor.hanzawa108.chatgpt.site/tools/html-context-api?src=gh)
