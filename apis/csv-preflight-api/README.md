@@ -56,3 +56,7 @@ if (!response.ok) throw new Error(`HTTP ${response.status}`);
 const report = await response.json();
 for (const d of report.diagnostics) console.log(d.code, 'row', d.row, 'line', d.line, 'column', d.column);
 ```
+
+[Product page](https://awd-change-monitor.hanzawa108.chatgpt.site/apis/csv-preflight-api?src=gh)
+
+[Try free tool](https://awd-change-monitor.hanzawa108.chatgpt.site/tools/csv-preflight-api?src=gh)
