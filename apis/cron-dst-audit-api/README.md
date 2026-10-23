@@ -58,3 +58,7 @@ const response = await fetch(`https://${host}/v1/audit`, {method:'POST',headers:
 if (!response.ok) throw new Error(`HTTP ${response.status}`);
 console.log(await response.json());
 ```
+
+[Product page](https://awd-change-monitor.hanzawa108.chatgpt.site/apis/cron-dst-audit-api?src=gh)
+
+[Try free tool](https://awd-change-monitor.hanzawa108.chatgpt.site/tools/cron-dst-audit-api?src=gh)
